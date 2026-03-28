@@ -1,2 +1,4 @@
+^renv$
+^renv\.lock$
 ^SleepEx\.Rproj$
 ^\.Rproj\.user$
